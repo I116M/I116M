@@ -29,8 +29,8 @@
 ## 🌐 Connect with me
 
 [![Website](https://img.shields.io/badge/Website-code--quest.me-blue?style=flat-square&logo=google-chrome)](https://code-quest.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-김두호-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/duho-kim-130460215/))
-[![Email](https://img.shields.io/badge/Email-youremail@example.com-red?style=flat-square&logo=gmail)](mailto:durio0312@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-김두호-blue?style=flat-square&logo=linkedin)]([[https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/duho-kim-130460215/)](https://www.linkedin.com/in/duho-kim-130460215/))
+[![Email](https://img.shields.io/badge/Email-durio0312@gmail.com-red?style=flat-square&logo=gmail)](mailto:durio0312@gmail.com)
 
 ## 🏆 GitHub Trophies
 
